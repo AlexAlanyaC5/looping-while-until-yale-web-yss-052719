@@ -1,4 +1,5 @@
-def using_while = 10 
+def using_while
+  puts ""
 end
   levitation_force = 6
 	
